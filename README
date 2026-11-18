@@ -1,0 +1,37 @@
+# To-Do List Web App
+
+## Project Description
+A simple and interactive To-Do List web application that helps users organize and manage their daily tasks.
+
+The application allows users to add, view, edit, complete, and delete tasks through a user-friendly interface.
+
+## Features
+- **Add Tasks:** Create new tasks using the input field.
+- **View Tasks:** Display all added tasks in a list.
+- **Edit Tasks:** Click on a task to update its text.
+- **Mark Tasks as Completed:** Check or uncheck tasks to change their completion status.
+- **Delete Tasks:** Delete individual tasks or clear the entire list.
+- **Task Counter:** Displays the total number of tasks.
+- **Local Storage:** Saves tasks in the browser so they remain available after refreshing the page.
+
+## Technologies Used
+- **HTML5:** Website structure.
+- **CSS3:** Styling and layout.
+- **JavaScript:** Task management and interactivity.
+- **Local Storage:** Browser-based data persistence.
+
+## How to Run the Application
+
+1. Download or clone this GitHub repository.
+2. Open the project folder.
+3. Open `index.html` in any modern web browser.
+4. Start adding and managing your tasks
+## Project Files
+
+- `index.html` — Contains the website structure.
+- `style.css` — Contains the website styling.
+- `script.js` — Contains the application's functionality.
+
+## Notes
+- Tasks are stored locally in each user's browser.
+- No account or internet connection is required to use the downloaded application.
